@@ -8,26 +8,22 @@ A computer vision pipeline that detects and tracks **players**, **referees**, an
 
 ### Before Annotation (Raw Input)
 
-> 📌 **Replace the placeholder below with your raw input video**
 
-<!-- To embed a video in GitHub Markdown, upload it via the GitHub UI (drag & drop into an Issue or PR), copy the generated URL, and paste it here -->
+
+<video src="input_videos/08fd33_4.mp4" controls width="700"></video>
 
 **Input Video Preview:**
 
-https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-INPUT-VIDEO-URL
+
 
 ---
 
 ### After Annotation (Model Output)
 
-> 📌 **Replace the placeholder below with your annotated output video**
+<video src="output_videos/output.avi" controls width="700"></video>
 
 **Output Video Preview:**
 
-https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-OUTPUT-VIDEO-URL
-
-> 💡 **How to attach videos in GitHub:** Go to any GitHub Issue or Pull Request → drag & drop your `.mp4` or `.avi` file → GitHub generates a URL → paste it above.
-> Alternatively, convert your `.avi` to `.mp4` using `ffmpeg -i output.avi output.mp4` for better browser compatibility.
 
 ---
 
