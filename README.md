@@ -183,19 +183,4 @@ Helper functions: `get_centre_of_bbox()` and `get_width_bbox()` used to compute 
 
 ---
 
-## 🚀 Future Improvements
 
-- Ball tracking (currently detected but not annotated in output)
-- Team assignment via jersey color clustering (K-Means)
-- Speed & distance estimation per player
-- Heatmap generation for player positioning
-- Camera movement compensation for accurate field mapping
-
----
-
-## 🙏 Acknowledgements
-
-- [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
-- [Roboflow Football Players Detection Dataset](https://roboflow.com)
-- [Supervision Library by Roboflow](https://github.com/roboflow/supervision)
-- [ByteTrack](https://github.com/ifzhang/ByteTrack)
