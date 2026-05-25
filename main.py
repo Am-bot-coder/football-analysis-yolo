@@ -3,7 +3,7 @@ from tracker import Tracker
 
 def main():
     # Reading the video frames
-    video_frames = read_video(r"D:\DL\YOLO\Football Goal Analysis\input_videos\madrid vs city.mp4")
+    video_frames = read_video(r"D:\DL\YOLO\Football Goal Analysis\input_videos\08fd33_4.mp4")
 
     # Initializing the Tracker
     tracker = Tracker(r"D:\DL\YOLO\Football Goal Analysis\models\best.pt")
