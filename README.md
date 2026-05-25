@@ -8,20 +8,13 @@ A computer vision pipeline that detects and tracks **players**, **referees**, an
 
 ### Before Annotation (Raw Input)
 
-<video src="input_videos/08fd33_4.mp4" controls width="700"></video>
-
-*Original football match footage used as input for detection and tracking.*
+<video src="https://raw.githubusercontent.com/Am-bot-coder/football-analysis-yolo/main/input_videos/08fd33_4.mp4" controls width="700"></video>
 
 ---
 
 ### After Annotation (Model Output)
 
-<video src="output_videos/output.mp4" controls width="700"></video>
-
-*Annotated output showing tracked players, referees, and object IDs.*
-
-> ⚠️ For best GitHub playback, use `.mp4` instead of `.avi`.
-
+<video src="https://raw.githubusercontent.com/Am-bot-coder/football-analysis-yolo/main/output_videos/output.mp4" controls width="700"></video>
 ---
 
 ## 📁 Project Structure
